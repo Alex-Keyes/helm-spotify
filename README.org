@@ -69,3 +69,6 @@ Thanks to [[https://github.com/Kungsgeten][Kungsgeten]] for supplying the Window
 I tip my hat to the team behind [[https://github.com/emacs-helm/helm][Helm]], to [[https://github.com/purcell][Steve Purcell]] (for [[https://github.com/milkypostman/melpa][Melpa]]),
 and to [[https://github.com/kurisuwhyte][Christina Whyte]] (for [[https://github.com/kurisuwhyte/emacs-multi][Emacs Multimethods]]).
 
+* TODO 
+**Add favorite capability 
+
